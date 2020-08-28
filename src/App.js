@@ -11,10 +11,6 @@ function App() {
             <img src="./appStore.png" alt="Download on Apple App Store button" />
             <img src="./googlePlay.png" alt="Download on Google Play Store button" />
           </div>
-          <a href="#" className="app-link">
-            <span>Learn More</span>
-            <img src="./arrow_forward.svg" alt="Forward arrow" />
-          </a>
         </div>
         <img className="app-screen" src="iPhone7Mock.png" alt="Screenshot of Kord Music app on iPhone 7" />
       </header>
